@@ -17,3 +17,8 @@
     App screenshot
     
     https://github.com/WabzBraize/JavaScript-Projects/blob/main/capture12.jpg
+
+
+
+
+![Alt text](/relative/path/to/capture12.jpg?raw=true "Optional Title")
