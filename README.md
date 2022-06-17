@@ -21,4 +21,4 @@
 
 
 
-![Alt text](/relative/path/to/capture12.jpg?raw=true "Optional Title")
+![App Screenshot](capture12.jpg?raw=true "Optional Title")
