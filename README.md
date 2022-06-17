@@ -14,3 +14,6 @@
     - Calculates overall points and weights
     - Calculates weights based on gender
     
+    App screenshot
+    
+    https://github.com/WabzBraize/JavaScript-Projects/blob/main/capture12.jpg
